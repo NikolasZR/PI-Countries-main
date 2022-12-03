@@ -1,0 +1,32 @@
+.landingContainer{
+    display: flex;
+    justify-content: center;
+}
+.landingTitle{
+    margin-top: 100px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.05rem;
+    color: rgb(250, 9, 9);
+   
+}
+.landingBtn{
+    padding: 0.7rem 2rem;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: inherit;
+    letter-spacing: 0.07rem;
+    font-weight: 800;
+    font-size: 20px;
+    position: relative;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    overflow: hidden;
+    background: #A98069;
+    color: #503A31;
+}
+
+.imagen-landing{
+    margin-top: 30px;
+}
